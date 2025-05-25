@@ -18,7 +18,8 @@ const Navbar = () => {
               </li>
           </ul> */}
           <div>
-            <button className="text-white bg-green-700 my-5 rounded-md flex items-center p-1 px-3 justify-between gap-2"> Github
+            <button className="text-white bg-green-700 my-5 rounded-md flex items-center p-1 px-3 justify-between gap-2"> 
+              <a href="https://github.com/priyapandey09/">Github</a>
               <img src="icons/github.svg" alt="GitHub" className='invert w-8 h-8 cursor-pointer' />
             </button>
           </div>
